@@ -1,7 +1,7 @@
 # A GUI Based Basic Calculator Using Python
 ## This Basic Project is assigned as classed work.
 
-< This assignemt was completed using various basic GUI features of Python. This model is perfect for understanding how the < basic GUI features work in Python.
+> This assignemt was completed using various basic GUI features of Python. This model is perfect for understanding how the basic GUI features work in Python.
 
 ## Steps to create the calculator
 
