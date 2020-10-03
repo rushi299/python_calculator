@@ -1,7 +1,7 @@
 # A GUI Based Basic Calculator Using Python
 ## This Basic Project is assigned as classed work.
 
-This assignemt was completed using various basic GUI features of Python. This model is perfect for understanding how the basic GUI features work in Python.
+< This assignemt was completed using various basic GUI features of Python. This model is perfect for understanding how the < basic GUI features work in Python.
 
 ## Steps to create the calculator
 
@@ -29,6 +29,22 @@ Create main.py and import sys package.
 	- Define the main function.
 	- Create and call an instance of QApplication.
 	- Show the GUI using GUI() and show() methods.
+
+## Step-4:
+Create model.py and add the following in the module.
+
+	- Define evaluateExpression method in it.
+	- Pass the expression in the above listed method and check whether it throws any exception or not, if not then print the result.
+
+## Step-5:
+Create controller.py. In this module add the folloeing things:
+
+	- Define a class named Controller.
+	- Build a constructor which calls model and view parameters in it.
+	- Define 3 functions in it:
+		1. calculateResult: for evaluating result of expression.
+		2. buildExpression: for validating and building the expression.
+		3. connectSignals: to connect the expression through the buttons we defined in Step-3.
 
 
  
