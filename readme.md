@@ -50,7 +50,7 @@ Create controller.py. In this module add the following things:
 > 
 >**Now, try to run to the main.py file, it will show you a layout like a basic calculator and then by entering values you can do your calculations on your newly created basic calculator.** 
 > 
->** After excecuting the file you will be able to see the output screen like this as below in the figure. **
+>**After excecuting the file you will be able to see the output screen like this as below in the figure.**
 
 ![](Output/ouput.png)
 
