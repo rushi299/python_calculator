@@ -52,6 +52,6 @@ Create controller.py. In this module add the following things:
 > 
 >**After excecuting the file you will be able to see the output screen like this as below in the figure.**
 
-![](Output/ouput.png)
+![](Output/output.png)
 
  
